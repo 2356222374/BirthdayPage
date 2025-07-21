@@ -3,7 +3,7 @@
 ### Demo展示
 ---
 
-[comment]: <> ([https://zjw1111.github.io/BirthdayPage/]&#40;https://zjw1111.github.io/BirthdayPage/&#41;)
+[https://2356222374.github.io/BirthdayPage/](https://2356222374.github.io/BirthdayPage/)
 
 ## 相关fork说明
 ---
