@@ -2,7 +2,8 @@
 
 ### Demo展示
 ---
-[https://zjw1111.github.io/BirthdayPage/](https://zjw1111.github.io/BirthdayPage/)
+
+[comment]: <> ([https://zjw1111.github.io/BirthdayPage/]&#40;https://zjw1111.github.io/BirthdayPage/&#41;)
 
 ## 相关fork说明
 ---
